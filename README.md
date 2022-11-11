@@ -1,5 +1,5 @@
 # Codember 2022
-Mis soluciones para [Codember](https://codember.dev/) (By [@midudev](https://twitter.com/midudev))
+Mis soluciones para [Codember](https://codember.dev/)
 
 
 <img src="https://user-images.githubusercontent.com/78381898/201253554-276086ac-7c28-43d6-a9cc-f2e7d80e4ab2.png" height="200" />
