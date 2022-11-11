@@ -1,0 +1,19 @@
+{
+  "name": "codember-2022",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "challenge01": "node src/challenge01"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayaba/codember-2022.git"
+  },
+  "author": "Pablo Jesús Pedraza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayaba/codember-2022/issues"
+  },
+  "homepage": "https://github.com/wayaba/codember-2022#readme"
+}
