@@ -10,6 +10,6 @@ Mis soluciones para [Codember](https://codember.dev/)
 | 1   | [¡Arregla Twitter!](./src/challenge01/README.md)                  | [solución](./src/challenge01/index.js) |
 
 
-## Gracias Midu :heart:
+## Gracias [midudev](https://twitter.com/midudev) :heart:
 
 [Twitch](https://twitch.tv/midudev) [Discord](https://discord.gg/midudev) [Youtube](https://youtube.com/midudev)
