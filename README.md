@@ -5,7 +5,7 @@ Mis soluciones para [Codember](https://codember.dev/)
 
 ## Retos :computer:
 
-| Día | Reto                                                                               | Código                       |
+| #   | Reto                                                                               | Código                       |
 | --- | ---------------------------------------------------------------------------------- | ---------------------------- |
 | 1   | [¡Arregla Twitter!](./src/challenge01/README.md)                  | [solución](./src/challenge01/index.js) |
 
