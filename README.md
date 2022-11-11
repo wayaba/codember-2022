@@ -1,8 +1,7 @@
 # Codember 2022
 Mis soluciones para [Codember](https://codember.dev/)
 
-
-[codember2022.png](https://postimg.cc/w1ymWTnd)
+<img src="https://postimg.cc/w1ymWTnd" height="200" />
 
 ## Retos :computer:
 
