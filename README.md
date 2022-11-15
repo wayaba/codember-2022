@@ -9,7 +9,7 @@ Mis soluciones para [Codember](https://codember.dev/)
 | #   | Reto                                                            | Código                                 |
 | --- | --------------------------------------------------------------- | -------------------------------------- |
 | 1   | [¡Arregla Twitter!](./src/challenge01/README.md)                | [solución](./src/challenge01/index.js) |
-| 1   | [¡Atrapa a esos ciber criminales!](./src/challenge01/README.md) | [solución](./src/challenge02/index.js) |
+| 2   | [¡Atrapa a esos ciber criminales!](./src/challenge01/README.md) | [solución](./src/challenge02/index.js) |
 
 ## Gracias [midudev](https://twitter.com/midudev) :heart:
 
