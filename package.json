@@ -4,7 +4,8 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "challenge01": "node src/challenge01"
+    "challenge01": "node src/challenge01",
+    "challenge02": "node src/challenge02"
   },
   "repository": {
     "type": "git",
