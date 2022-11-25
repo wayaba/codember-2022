@@ -6,7 +6,8 @@
   "scripts": {
     "challenge01": "node src/challenge01",
     "challenge02": "node src/challenge02",
-    "challenge03": "node src/challenge03"
+    "challenge03": "node src/challenge03",
+    "challenge04": "node src/challenge04"
   },
   "repository": {
     "type": "git",
