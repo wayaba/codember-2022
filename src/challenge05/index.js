@@ -26,4 +26,4 @@ const findWinnerFramework = (list) => {
 const exampleList = ['a0', 'b1', 'c2', 'd3', 'e4', 'f5', 'g6', 'h7', 'i8', 'j9']
 console.log(findWinnerFramework(exampleList)) // submit e4-4
 
-console.log(findWinnerFramework(frameworks)) // submit Diana-100
+console.log(findWinnerFramework(frameworks))
